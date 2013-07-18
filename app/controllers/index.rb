@@ -3,10 +3,5 @@ get '/' do
   erb :index
 end
 
-get '/posts' do
 
-end
 
-get 'tags' do
-
-end
