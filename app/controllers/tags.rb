@@ -1,3 +1,3 @@
-get 'tags' do
+get '/tags' do
 
 end
